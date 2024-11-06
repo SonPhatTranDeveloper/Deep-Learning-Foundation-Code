@@ -2,7 +2,7 @@
 
 ## About 
 
-This repository contains my code implementation for the book Deep Learning - Foundation and Concepts.
+This repository contains my code implementation for the book Deep Learning - Foundations and Concepts.
 
 ## Progress
 
